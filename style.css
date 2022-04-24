@@ -1,0 +1,25 @@
+body {
+    font-family: Helvetica, sans-serif;
+}
+
+#name {
+    text-align: center;
+    font-size: 40px;
+}
+
+.recipetitle {
+    text-align: center;
+    font-size: 40px;
+}
+
+#applepiebody {
+    color: #424242;
+}
+
+#potatosaladbody {
+    color: #B8B08D;
+}
+
+#poundcakebody {
+    color: #d69737;
+}
